@@ -1,0 +1,5 @@
+/home/developer/gitHub/First/dars_9/dars_9/obj/Debug/net8.0/dars_9.GeneratedMSBuildEditorConfig.editorconfig
+/home/developer/gitHub/First/dars_9/dars_9/obj/Debug/net8.0/dars_9.AssemblyInfoInputs.cache
+/home/developer/gitHub/First/dars_9/dars_9/obj/Debug/net8.0/dars_9.AssemblyInfo.cs
+/home/developer/gitHub/First/dars_9/dars_9/obj/Debug/net8.0/dars_9.csproj.CoreCompileInputs.cache
+/home/developer/gitHub/First/dars_9/dars_9/obj/Debug/net8.0/dars_9.sourcelink.json
